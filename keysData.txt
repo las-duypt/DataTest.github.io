@@ -1,3 +1,4 @@
 {
-"keys_app_id": "NjgwOGZlMzQ2YjA4ZDc1MTgzNWQ4ZWI0"
+"keys_app_id": "NjgwOGZlMzQ2YjA4ZDc1MTgzNWQ4ZWI0",
+"keys_ba_id": "NjgwOGZiOTc2YjA4ZDc1MTgzNWQ4ZTk3"
 }
